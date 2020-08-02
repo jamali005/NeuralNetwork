@@ -1,0 +1,24 @@
+Q: What is the main difference between Artificial inteligent and Neural Network?
+
+
+A:(i) in AI the formal manipulation of language of algorithme and data representation in TOP-DOWN
+(ii) in other side Neural network is the parallel distributed processoors with a natural ability to learn (bottom-up)
+
+
+
+Q: what are the benefits of Neural Network?
+
+
+A:(i) Nonlinearity ,
+(ii) Input-Output Mapping,
+(iii) Adaptivity,
+(IV) Evidential Response,
+(V) Contextual Information,
+(VI) Fault Tolerance,
+(VII) VLSI implementability,
+(VIII) Uniformity of Analysis and Design,
+(IX) Neurobiological Analogy.}
+
+
+Q: what is the acronym VLSI in Neural Network?
+A: Very Large Scale Integration.
